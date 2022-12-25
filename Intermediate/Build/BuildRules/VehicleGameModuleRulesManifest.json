@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Mufaddal\\Documents\\Unreal Projects\\VehicleGame\\Source\\VehicleGame\\VehicleGame.Build.cs",
+		"C:\\Users\\Mufaddal\\Documents\\Unreal Projects\\VehicleGame\\Source\\VehicleGameLoadingScreen\\VehicleGameLoadingScreen.Build.cs",
+		"C:\\Users\\Mufaddal\\Documents\\Unreal Projects\\VehicleGame\\Source\\VehicleGame.Target.cs",
+		"C:\\Users\\Mufaddal\\Documents\\Unreal Projects\\VehicleGame\\Source\\VehicleGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

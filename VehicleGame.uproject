@@ -1,0 +1,49 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "Samples",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "VehicleGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "VehicleGameLoadingScreen",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "PhysXVehicles",
+			"Enabled": true
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
+		},
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "Firebase",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Android",
+				"IOS"
+			]
+		},
+		{
+			"Name": "FirebaseAuthentication",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3285bd4919d5433792ccbdfe034c91e6"
+		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
+	],
+	"EpicSampleNameHash": "2902796019"
+}
